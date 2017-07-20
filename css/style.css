@@ -1,0 +1,103 @@
+/* Ignore this stylesheet*/
+
+body {
+    margin: 100px 0 0 0;
+    background: #0f284b;
+}
+
+p {
+    background: #f5f5f5;
+    font-family: sans-serif;
+    font-size: 85%;
+    line-height: 2em;
+    font-weight: bold;
+    color: #333;
+    padding: 1em;
+    min-height: 120px;
+}
+
+.zero p {
+    background: #fff;
+}
+
+.title p {
+    text-align: center;
+    min-height: 55px;
+}
+
+.hero-dmpu p {
+    height: 400px;
+}
+
+.hero-dmpu-4 p {
+    height: 540px;
+}
+
+.article-2 p {
+    height: 300px;
+}
+
+.article-3 p {
+    height: 225px !important;
+    background: #f5f5f5;
+}
+
+.article-33 p {
+    height: 205px !important;
+    background: #f5f5f5;
+}
+
+.article-4 p {
+    height: 150px;
+}
+
+.article-small p {
+    height: 55px !important;
+    min-height: 55px;
+}
+
+.article-super-small p {
+    height: 30px !important;
+    min-height: 30px;
+    padding: 0 1em;
+}
+
+.hero-3 p {
+    height: 205px;
+}
+
+.hero-5 p {
+    height: 430px;
+    background: #f5f5f5;
+}
+
+.mpu p {
+    background-color: red;
+}
+
+.margin-top {
+    margin-top: -130px;
+}
+
+
+/* Site takeover skin  */
+
+#backgroundTop {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: #0f284b;
+    z-index: -1;
+}
+
+#scrollTop {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.ctn {
+    margin: 80px 0 0 150px;
+    position: absolute;
+}
